@@ -1,0 +1,38 @@
+[
+  {
+    "id": "ca55ab69-56ce-4255-a92f-de21ccba7d8a",
+    "name": "李明",
+    "gender": "男",
+    "studentNo": "2026001",
+    "className": "高一 1 班",
+    "age": 16,
+    "score": 92,
+    "phone": "13800000001",
+    "address": "北京市海淀区",
+    "createdAt": 1783179262692
+  },
+  {
+    "id": "dbbf39fd-369f-457f-921e-96cdaabb593d",
+    "name": "王芳",
+    "gender": "女",
+    "studentNo": "2026002",
+    "className": "高一 2 班",
+    "age": 15,
+    "score": 86,
+    "phone": "13800000002",
+    "address": "上海市浦东新区",
+    "createdAt": 1783179263692
+  },
+  {
+    "id": "108dbae6-0f9e-4a4a-a12d-88af0bb718f5",
+    "name": "张伟",
+    "gender": "男",
+    "studentNo": "2026003",
+    "className": "高一 1 班",
+    "age": 16,
+    "score": 74,
+    "phone": "13800000003",
+    "address": "广州市天河区",
+    "createdAt": 1783179264692
+  }
+]
